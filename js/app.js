@@ -52,8 +52,8 @@ var confirmation = confirm("Do you want to skip welcoming message ?");
 if (confirmation) { alert("Welcoming message has been skipped !") } 
 else { alert(`welcome ${state + name},`) }
 
-
-let questions = ["Do you have a job", "Have yo finished University", "Are you free from 8 AM till 4 PM"];
+//////////// Three questions Task06
+let questions = ["Do you have a job ?", "Where do you live ?", "What is your favorite dish?"];
 let answers = [];
 for(let j=1; j<=3; j++) {
     answers.push(prompt(`Question number(${j}): ${questions[j-1]} ?`));
@@ -77,3 +77,5 @@ function setColor(btn, color) {
       count = 0;
     }
   }
+
+
