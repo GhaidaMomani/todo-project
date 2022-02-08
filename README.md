@@ -9,3 +9,9 @@ How long did it take you to complete this assignment? And, before you started, h
 
 
 ## for Task05 another HTML file was added in order to see the difference between the solutins for every task given. it is called *index05.html*
+
+
+![Wireframe] (./assests/wireframe1.jpg)
+
+![Wireframe] (./assests/wireframe2.jpg)
+
